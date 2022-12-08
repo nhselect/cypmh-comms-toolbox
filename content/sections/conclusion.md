@@ -7,9 +7,9 @@ backdrop: priscilla-du-preez-aPa843frIzI-unsplash.jpg
 createdAt: 2022-10-25T13:37:26.282Z
 updatedAt: 2022-10-25T13:37:26.290Z
 ---
-Need some support in using communication tools? See our communication tools section for great video guides and easy to follow tips. (link back to CYPMH site) 
+Need some support in using communication tools? [See our communication tools section](https://www.e-lfh.org.uk/programmes/cypmh_in_acute_settings/) for great video guides and easy to follow tips. 
 
-For further information and comments please email ltlc@hee.nhs.uk 
+For further information and comments please email learningnetwork@nhselect.org.uk
 
 ## Acknowledgements
 
