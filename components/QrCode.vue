@@ -10,14 +10,15 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component, Prop } from 'nuxt-property-decorator'
+import Vue from 'vue'
 import QrcodeVue from 'qrcode.vue'
 
 Vue.component('QrcodeVue', QrcodeVue)
 
-@Component
-export default class QrCode extends Vue {
-  @Prop({ required: true }) readonly shareUrl!: string
+export default {
+    props: {
+        shareUrl: String,
+    }
 }
 </script>
 
