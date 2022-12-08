@@ -15,14 +15,14 @@ For further information and comments please email learningnetwork@nhselect.org.u
 
 With thanks to:
 
-- [Great Ormond Street Hospital](https://www.gosh.org)
+- [Great Ormond Street Hospital for Children NHS Foundation Trust](https://www.gosh.nhs.uk)
 - [Leeds and York NHS Foundation Trust](https://www.leedsandyorkpft.nhs.uk)
 - [Herefordshire and Worcestershire Health and Care NHS Trust](https://www.hacw.nhs.uk)
 - [Sheffield Children's NHS Foundation Trust](https://www.sheffieldchildrens.nhs.uk/)
 - [University Hospitals of North Midlands NHS Trust](https://www.uhnm.nhs.uk)
 - [Royal Surrey NHS Foundation Trust](https://www.royalsurrey.nhs.uk/)
-- [Easy Health](www.easyhealth.org.uk) 
-- [Books Beyond Words](www.booksbeyondwords.co.uk) 
-- [A picture of health](www.apictureofhealth.southwest.nhs.uk) 
-- [Communication People](www.communicationpeople.co.uk) 
-- [National Autistic Society](www.autism.org.uk)
+- [Easy Health](https://www.easyhealth.org.uk) 
+- [Books Beyond Words](https://www.booksbeyondwords.co.uk) 
+- [A picture of health](https://www.apictureofhealth.southwest.nhs.uk) 
+- [Communication People](https://www.communicationpeople.co.uk) 
+- [National Autistic Society](https://www.autism.org.uk)
