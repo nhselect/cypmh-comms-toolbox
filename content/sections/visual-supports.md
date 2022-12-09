@@ -28,13 +28,13 @@ resources:
     text: How to use an inhaler
   - 
     url: https://www.royalsurrey.nhs.uk/download.cfm?doc=docm93jijm4n17196.pdf&ver=43490
-    text: Visuals to support with having an x-ray
+    text: Having an x-ray
   - 
     url: https://www.royalsurrey.nhs.uk/download.cfm?doc=docm93jijm4n17194.pdf&ver=43488
-    text: Visuals to support having an ultrasound
+    text: Having an ultrasound
   - 
     url: https://www.royalsurrey.nhs.uk/download.cfm?doc=docm93jijm4n17184.pdf&ver=43478
-    text: Visuals to support having a plaster cast 
+    text: Having a plaster cast 
 ---
 Some children need visual supports alongside verbal communication to help understanding. These can be used on communication boards, individual images for flash cards which support understanding, now and next boards, and on timetables.
 
@@ -42,4 +42,4 @@ Start your toolkit by creating a folder full of visual supports for common hospi
 
 <toolbox-resource-links :links="resources"></toolbox-resource-links>
 
-<toolbox-programme-link :url="'https://www.e-lfh.org.uk/programmes/cypmh_in_acute_settings/'">Watch our videos on how to use visuals to support your communication</toolbox-programme-link>
+<toolbox-programme-link :url="'https://portal.e-lfh.org.uk/Component/Details/743595'">Watch our videos on how to use visuals to support your communication</toolbox-programme-link>

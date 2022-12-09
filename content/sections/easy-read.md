@@ -16,7 +16,7 @@ resources:
     text: Going to the dentist
 resourcesB:
   - 
-    url: https://www.england.nhs.uk/wp-content/uploads/2019/11/easy-read-katrinas-dentist-story.pdf
+    url: https://www.learningdisabilityservice-leeds.nhs.uk/easy-on-the-i/how-to-use/
     text: Further information on how to create your own easy read materials
   - 
     url: http://www.apictureofhealth.southwest.nhs.uk/easy-read-tools/photosymbols/
@@ -27,7 +27,7 @@ resourcesB:
 ---
 An important reasonable adjustment is to make sure information is accessible - this can mean providing easy read materials.
 
-Easy read means information placed in a format with accompanying pictures and clear text, helping meet the communication needs of some autistic people or those with learning difficulty. This is a particularly important reasonable adjustment for young people.
+Easy read means information placed in a format with accompanying pictures and clear text, helping meet the communication needs of some autistic people or those with a learning disability. This is a particularly important reasonable adjustment for young people.
 
 Start with a guide about attending your clinical area:
 
