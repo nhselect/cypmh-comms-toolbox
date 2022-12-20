@@ -2,6 +2,7 @@
 title: Communication Toolbox
 hideTitle: true
 published: true
+backdrop: aedrian-MxrkWAV6k7M-unsplash.jpg
 order: 0
 createdAt: 2022-10-25T13:37:26.282Z
 updatedAt: 2022-10-25T13:37:26.290Z

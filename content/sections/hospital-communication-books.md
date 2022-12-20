@@ -2,6 +2,7 @@
 title: Hospital communication books
 published: true
 order: 5
+backdrop: jonas-jacobsson-0FRJ2SCuY4k-unsplash.jpg
 createdAt: 2022-10-25T13:37:26.282Z
 updatedAt: 2022-10-25T13:37:26.290Z
 resources:

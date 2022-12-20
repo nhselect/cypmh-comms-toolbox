@@ -1,6 +1,7 @@
 ---
 title: Social stories
 published: true
+backdrop: marisa-howenstine-Cq9slNxV8YU-unsplash.jpg
 order: 4
 createdAt: 2022-10-25T13:37:26.282Z
 updatedAt: 2022-10-25T13:37:26.290Z

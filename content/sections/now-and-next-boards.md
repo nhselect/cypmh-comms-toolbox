@@ -1,6 +1,7 @@
 ---
 title: Now and Next boards and visual timetables
 published: true
+backdrop: eric-rothermel-FoKO4DpXamQ-unsplash.jpg
 order: 2
 createdAt: 2022-10-25T13:37:26.282Z
 updatedAt: 2022-10-25T13:37:26.290Z

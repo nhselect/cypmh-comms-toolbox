@@ -2,6 +2,7 @@
 title: Easy read
 published: true
 order: 3
+backdrop: brett-jordan-7PYqjNzvrc4-unsplash.jpg
 createdAt: 2022-10-25T13:37:26.282Z
 updatedAt: 2022-10-25T13:37:26.290Z
 resources:

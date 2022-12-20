@@ -1,6 +1,7 @@
 ---
 title: Visual Supports
 published: true
+backdrop: sigmund-TJxotQTUr8o-unsplash.jpg
 order: 1
 createdAt: 2022-10-25T13:37:26.282Z
 updatedAt: 2022-10-25T13:37:26.290Z
