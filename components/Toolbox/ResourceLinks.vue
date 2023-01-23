@@ -9,7 +9,7 @@
       <img 
         v-if="link.img"
         class="nhsuk-card__img" 
-        :src="link.img" 
+        :src="'img/'+link.img" 
         alt=""
       >
       <div class="nhsuk-card__content">
@@ -22,6 +22,9 @@
             {{ link.text }}
           </a>
         </h4>
+        <p class="tk-attribution" v-if="link.attribution">
+          {{  link.attribution  }}
+        </p>
       </div>
     </div>
     </li>
@@ -38,4 +41,17 @@ export default {
 
 <style lang="scss">
 @import 'node_modules/nhsuk-frontend/packages/components/card/card';
+
+.nhsuk-card__img {
+  height: 100px;
+  object-fit: cover;
+  filter: brightness(0.95) contrast(0.95);
+  position: relative;
+}
+
+p.tk-attribution {
+  font-size: 0.75em;
+  line-height: 1.2em;
+  color: $color_nhsuk-grey-2;
+}
 </style>

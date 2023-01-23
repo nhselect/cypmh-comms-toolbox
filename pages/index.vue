@@ -38,16 +38,16 @@
         </div>
       </div>
     </div>
-      
+
     <div
       v-for="(item, index) in items"
       :key="item.title"
       class="tbox-section nhsuk-grid-row"
     >
       <div 
-        v-if="item.backdrop"
+        v-if="item.theme"
         class="tbox-section--backdrop"
-        :style="'backgroundImage:url(/img/'+item.backdrop+')'"
+        :style="'backgroundImage:linear-gradient(to bottom, '+item.theme[0]+', '+item.theme[1]+')'"
         ></div>
       <div class="nhsuk-width-container">
         <div class="nhsuk-grid-column-three-quarters nhsuk-u-padding-top-9 nhsuk-u-padding-bottom-5 nhsuk-u-padding-right-7">
@@ -65,7 +65,12 @@
               :id="'tkit-section-'+index"
               class="tkit-section--header"
             >
-              {{ item.title }}
+              <span
+                class="tkit-section--header-text"
+                :style="'borderBottom:8px solid '+item.theme[0]+''"
+                >
+                {{ item.title }}
+              </span>
             </h2>          
             <NuxtContent :document="item" />
           </div>
@@ -116,6 +121,11 @@ export default {
     top: 0;
     bottom: 0;
     left: 50%;
+  }
+
+  .tkit-section--header-text {
+    display: inline-block;
+    padding-bottom: nhsuk-spacing(3);
   }
 
   > .nhsuk-width-container {

@@ -3,6 +3,7 @@
     <a
       class="nhsuk-action-link__link"
       :href="url"
+      target="_blank"
       >
       <svg class="nhsuk-icon nhsuk-icon__arrow-right-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" width="36" height="36">
         <path d="M0 0h24v24H0z" fill="none"></path>
