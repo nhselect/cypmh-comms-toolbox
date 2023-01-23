@@ -50,7 +50,7 @@
         :style="'backgroundImage:linear-gradient(to bottom, '+item.theme[0]+', '+item.theme[1]+')'"
         ></div>
       <div class="nhsuk-width-container">
-        <div class="nhsuk-grid-column-three-quarters nhsuk-u-padding-top-9 nhsuk-u-padding-bottom-5 nhsuk-u-padding-right-7">
+        <div :id="'tkit-section-'+index" class="nhsuk-grid-column-three-quarters nhsuk-u-padding-top-9 nhsuk-u-padding-bottom-5 nhsuk-u-padding-right-7">
           <div class="nhsuk-u-reading-width">
             <div class="nhsuk-back-link">
               <a class="nhsuk-back-link__link" href="#contents">
@@ -62,7 +62,6 @@
             </div>
             <h2 
               v-if="!item.hideTitle"
-              :id="'tkit-section-'+index"
               class="tkit-section--header"
             >
               <span

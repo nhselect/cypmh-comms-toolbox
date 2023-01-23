@@ -1,5 +1,5 @@
 ---
-title: Conclusion
+title: Acknowledgements
 hideTitle: true
 published: true
 order: 100
