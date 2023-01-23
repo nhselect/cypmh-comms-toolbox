@@ -11,10 +11,10 @@ resources:
   - 
     url: https://www.mencap.org.uk/sites/default/files/2016-06/hospitalcommunicationbook.pdf
     text: Hospital Communication Book
-    attribution: Learning Disability Partnership Board in Surrey
+    attribution: Learning Disability Partnership Board in Surrey / Mencap
     img: commbooksurrey.jpg
   - 
-    url: https://www.mencap.org.uk/sites/default/files/2016-06/hospitalcommunicationbook.pdf
+    url: http://www.communicationpeople.co.uk/assets/hospital-communication-book---version-3---for-web-2021---high-res.pdf
     text: The Hospital Communication Book
     attribution: The Clear Communication People Ltd
     img: hospitalcommbook.jpg
