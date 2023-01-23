@@ -3,7 +3,7 @@
     <div class="tbox-header nhsuk-grid-row">
       <div class="nhsuk-width-container">
         <div class="nhsuk-grid-column-full nhsuk-u-reading-width">
-          <h1 class="nhsuk-heading-xl nhsuk-u-font-size-64">
+          <h1 class="nhsuk-heading-xl">
             <span class="nhsuk-caption-l">
               Children and Young People with Mental Health Needs, Autism or Learning Disability
             </span>
@@ -141,10 +141,10 @@ export default {
   }
 
   &:nth-child(odd) {
-    background-color: lighten($color_nhsuk-grey-5,3%);
+    background-color: lighten($color_nhsuk-grey-5,4%);
 
     .nhsuk-grid-column-three-quarters {
-      background-color: lighten($color_nhsuk-grey-5,3%);
+      background-color: lighten($color_nhsuk-grey-5,4%);
     }
   }
 }
