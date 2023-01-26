@@ -49,4 +49,4 @@ Team this up with easy read guides for [common health conditions](https://www.ea
 
 <toolbox-resource-links :links="resourcesB"></toolbox-resource-links>
 
-<toolbox-top-tip>Make your easy read guides available to download on your hospital website, and don't forget the <a href="https://www.england.nhs.uk/about/equality/equality-hub/patient-equalities-programme/equality-frameworks-and-information-standards/accessibleinfo/" target="_blank">NHS accessible information standard</a> for further guides and advice</toolbox-top-tip>
+<toolbox-top-tip>Make your easy read guides available to download on your hospital website, and don't forget the <a href="https://www.england.nhs.uk/about/equality/equality-hub/patient-equalities-programme/equality-frameworks-and-information-standards/accessibleinfo/" target="_blank">NHS accessible information standard</a> for further guides and advice.</toolbox-top-tip>

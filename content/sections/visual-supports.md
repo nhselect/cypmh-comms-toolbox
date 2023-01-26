@@ -59,7 +59,7 @@ resources:
     img: plastercast.jpg
     attribution: Royal Surrey NHS Foundation Trust
 ---
-Some children need visual supports alongside verbal communication to help understanding. These can be used on communication boards, individual images for flash cards which support understanding, now and next boards, and on timetables.
+Some children and young people need visual supports alongside verbal communication to help understanding. These can be used on communication boards, individual images for flash cards which support understanding, now and next boards, and on timetables.
 
 Start your toolkit by creating a folder full of visual supports for common hospital procedures relevant to your clinical area:
 
@@ -67,4 +67,4 @@ Start your toolkit by creating a folder full of visual supports for common hospi
 
 <toolbox-programme-link :url="'https://portal.e-lfh.org.uk/Component/Details/743595'">Watch a video on how to use visuals to support your communication</toolbox-programme-link>
 
-<toolbox-top-tip>When using visual supports, do so in a quiet area away from distracting back ground noise and keep verbal language to a minimum</toolbox-top-tip>
+<toolbox-top-tip>When using visual supports, do so in a quiet area away from distracting back ground noise and keep verbal language to a minimum.</toolbox-top-tip>

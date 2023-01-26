@@ -26,7 +26,7 @@ With thanks to:
 - [Leeds and York NHS Foundation Trust](https://www.leedsandyorkpft.nhs.uk)
 - [Lambeth Autism Advisory Service](https://www.lambeth.gov.uk/lambeths-send-local-offer/im-parent-or-carer/specialist-send-support-services/autism-pathway/autism-advisory-service)
 - [National Autistic Society](https://www.autism.org.uk)
-- [A picture of health](https://www.apictureofhealth.southwest.nhs.uk) 
+- [A picture of health](http://www.apictureofhealth.southwest.nhs.uk) 
 - [Royal Surrey NHS Foundation Trust](https://www.royalsurrey.nhs.uk/)
 - [Sheffield Children's NHS Foundation Trust](https://www.sheffieldchildrens.nhs.uk/)
 - [University Hospitals of North Midlands NHS Trust](https://www.uhnm.nhs.uk)

@@ -27,8 +27,8 @@ resources:
 #    text: Tests and treatment
 #    attribution: The Clear Communication People Ltd
 ---
-If you are short on time, hospital communication books provide a wide range of symbols, and communication tools all packaged together. They are a good resource to have available in your hospital setting.
+If you are short on time, hospital communication books provide a wide range of symbols and communication tools all packaged together. They are a good resource to have available in your hospital setting.
 
 <toolbox-resource-links :links="resources"></toolbox-resource-links>
 
-<toolbox-top-tip>Don't overload by going through the whole book at once; concentrate on the area relevant to aid your communication</toolbox-top-tip>
+<toolbox-top-tip>Don't overload by going through the whole book at once; concentrate on the area relevant to aid your communication.</toolbox-top-tip>

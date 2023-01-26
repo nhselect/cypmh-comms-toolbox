@@ -39,4 +39,4 @@ You will need individual images relevant to your hospital area to cut up and use
 
 <toolbox-programme-link :url="'https://portal.e-lfh.org.uk/Component/Details/747277'">Watch a video on using now and next boards</toolbox-programme-link>
 
-<toolbox-top-tip>Keep it simple with only 2 activities on your board</toolbox-top-tip>
+<toolbox-top-tip>Keep it simple with only 2 activities on your board.</toolbox-top-tip>
