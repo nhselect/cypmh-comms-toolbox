@@ -11,3 +11,5 @@ updatedAt: 2022-10-25T13:37:26.290Z
 Many autistic children or young people, or those with a learning disability, need us to adapt our communication. Communication tools such as visual supports, now and next boards, social stories and easy read materials are important reasonable adjustments that health care staff can offer to meet communication needs.
 
 This communication toolbox provides links to free resources to download from a variety of sources including NHS trusts across the UK and access to a range of communication tools for your hospital setting.
+
+It is really important to understand the individual language and communication needs of children and young people to support and provide personalised care. These resources may help some children and young people. However those who have a severe learning or a profound and multiple learning disability may need more tailored support for language and communication as these resources will not be accessible. It is important to find this out from families and carers and other trusted communication partners.
