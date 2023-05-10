@@ -25,6 +25,7 @@ export default {
   plugins: [
     { src: '~/node_modules/nhsuk-frontend/dist/nhsuk.min.js', mode: 'client' },
     { src: '~/plugins/to-readable-time.js' },
+    { src: './plugins/posthog', mode: 'client' }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
